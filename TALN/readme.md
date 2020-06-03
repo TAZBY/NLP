@@ -1,8 +1,9 @@
-*****************************Projet : Outil de dérivation morpho-syntaxique.**********************************
+*****************************Projet : Outil de dérivation morpho-syntaxique.
 
 Pour exécuter le projet :
 	
-********************** EXECUTION DU PROJET ******************
+			EXECUTION DU PROJET
+			
 Pour faciliter l’exécution, on a fournit deux extensions à savoir celle d’un notebook avec :
 
                 -projetderivation.ipynb
