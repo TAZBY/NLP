@@ -1,4 +1,4 @@
-*****************************Projet : Outil de dérivation morpho-syntaxique.
+*****************************Projet : Outil de dérivation morpho-syntaxique.****************************
 
 Pour exécuter le projet :
 	
